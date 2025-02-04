@@ -30,7 +30,7 @@ function App() {
                     <Header
                         content={{
                             title: "สุขสันต์วันเกิด",
-                            subtitle: "Naming🎉",
+                            subtitle: "pang💕",
                         }}
                     />
                     <div className="w-[245px] h-[320px] rounded-lg shadow-lg mb-12">
